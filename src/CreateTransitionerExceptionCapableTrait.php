@@ -23,7 +23,7 @@ trait CreateTransitionerExceptionCapableTrait
      * @param RootException|null         $previous     The previous exception for chaining, if any.
      * @param TransitionerInterface|null $transitioner The transitioner that erred, if any.
      *
-     * @return TransitionerException
+     * @return TransitionerException The created transitioner exception.
      */
     protected function _createTransitionerException(
         $message = null,
