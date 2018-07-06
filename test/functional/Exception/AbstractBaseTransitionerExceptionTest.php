@@ -1,6 +1,6 @@
 <?php
 
-namespace Dhii\Data\Exception\UnitTest;
+namespace Dhii\Data\Exception\FuncTest;
 
 use Dhii\Data\Exception\AbstractBaseTransitionerException;
 use Dhii\Data\TransitionerInterface;

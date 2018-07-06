@@ -1,6 +1,6 @@
 <?php
 
-namespace Dhii\Data\Exception\UnitTest;
+namespace Dhii\Data\Exception\FuncTest;
 
 use Dhii\Data\StateAwareInterface;
 use Exception;
