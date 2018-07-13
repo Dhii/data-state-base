@@ -365,12 +365,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Dhii/data-state-abstract.git",
-                "reference": "52ce4cff59124f35dbd9a14ec39e5637fdacedef"
+                "reference": "ff6025b0d164b543326f3797ff68eb1b8bca6fa8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Dhii/data-state-abstract/zipball/52ce4cff59124f35dbd9a14ec39e5637fdacedef",
-                "reference": "52ce4cff59124f35dbd9a14ec39e5637fdacedef",
+                "url": "https://api.github.com/repos/Dhii/data-state-abstract/zipball/ff6025b0d164b543326f3797ff68eb1b8bca6fa8",
+                "reference": "ff6025b0d164b543326f3797ff68eb1b8bca6fa8",
                 "shasum": ""
             },
             "require": {
@@ -408,7 +408,7 @@
                 }
             ],
             "description": "Abstract functionality for handling objects with state.",
-            "time": "2018-07-06T12:13:57+00:00"
+            "time": "2018-07-13T15:51:42+00:00"
         },
         {
             "name": "dhii/data-state-interface",
