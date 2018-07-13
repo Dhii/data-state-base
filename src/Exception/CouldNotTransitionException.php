@@ -61,7 +61,8 @@ class CouldNotTransitionException extends AbstractBaseTransitionerException impl
         $subject = null,
         $transition = null
     ) {
-        $this->_init($message, $code, $previous, $transitioner);
+        $this->_initBaseException($message, $code, $previous);
+        $this->_setTransitioner($transitioner);
         $this->_setTransition($transition);
         $this->_setSubject($subject);
     }
