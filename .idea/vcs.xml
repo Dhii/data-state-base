@@ -4,6 +4,7 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/vendor/dhii/data-state-abstract" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/vendor/dhii/data-state-interface" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/dhii/state-machine-abstract" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/vendor/symfony/debug" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/vendor/symfony/filesystem" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/vendor/symfony/stopwatch" vcs="Git" />
